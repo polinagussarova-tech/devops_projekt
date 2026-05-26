@@ -1,2 +1,10 @@
-FROM nginx:latest
-COPY index.html /usr/share/nginx/html/index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DevOps Projekt</title>
+</head>
+<body>
+    <h1>Minu DevOps projekt töötab!</h1>
+</body>
+</html>
